@@ -3,7 +3,7 @@
 <br>
 
 
-<strong>Welcome to my GitHub profile.</strong>
+# Hello, I'm Tao! 👋
 
 <table align="center">
    <tr>
