@@ -22,22 +22,30 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ToAotao&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p></td>
    </tr>
 </table>
+
+## 💪 skills 
+ 
+<div align="left">
+  
+- Data structures and algorithms
+- Backend development
+- Micro service
+- Android
+- Block chain
+- Linux operations
+  
+ </div>
+
 ## 🛠  Tech Stack
   
   
  ### Language 
   
-  <p>
+<p>
 
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
 <br />
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
-<br />
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-ar21.svg"></code>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 </p>
@@ -52,9 +60,7 @@
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg"></code>
 <br />
-<code><img width="15%" src="https://upload.wikimedia.org/wikipedia/en/1/1e/Apache_HBase_Logo.svg"></code>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/influxdata/influxdata-ar21.svg"></code>
       
 
   
@@ -62,17 +68,11 @@
   
 
 
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"></code>
-<code><img width="15%" src="https://flink.apache.org/img/flink-header-logo.svg"></code>
-<br />
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-ar21.svg"></code>
-<code><img width="15%" src="https://alexle.net/wp-content/uploads/2020/02/post-38-5e5b07c3119f4.png"></code>
+
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg"></code>
 <br />
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-<code><img width="15%" src="https://i.imgur.com/1zj1LJE.jpg"></code>
-<code><img width="15%" src="https://miro.medium.com/max/688/1*N_SpRC3lO_Y0KeTlfH-WfA.png"></code>
+<code><img width="15%" src="https://pbs.twimg.com/profile_images/1235868806079057921/fTL08u_H_400x400.png"></code>
 </p>
   
   
