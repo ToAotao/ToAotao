@@ -67,9 +67,9 @@
 
 
 
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg"></code>
+<code><img width="15%" src="https://dandraka.files.wordpress.com/2021/03/rabbitmq-logo.png"></code>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-<code><img width="15%" src="https://pbs.twimg.com/profile_images/1235868806079057921/fTL08u_H_400x400.png"></code>
+<code><img width="15%" src="https://www.vincenzoracca.com/images/spring.png"></code>
 </p>
   
   
