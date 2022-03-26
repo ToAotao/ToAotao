@@ -74,7 +74,7 @@
 <br />
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/vim/vim-ar21.svg"></code>
 <code><img width="15%" src="https://repository-images.githubusercontent.com/2489216/24a1f980-8651-11eb-9707-7b75bab40c9e"></code>
-<code><img width="15%" src="https://upload.vectorlogo.zone/logos/apache_maven/images/bf250be6-ab7f-4191-b421-8d0acb1dc6e4.svg"></code>
+<code><img width="15%" src="https://unixcop.com/wp-content/uploads/2021/04/Apache-maven.jpg"></code>
 <br />
 
 </div>
